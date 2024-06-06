@@ -101,9 +101,9 @@ This repository includes implementations and explanations of the following algor
 For any questions or feedback, please feel free to reach out:
 
 
-- GitHub: [SamarjeetShelke](https://github.com/your-username](https://github.com/Samarjeetshelke/))
+- GitHub: [SamarjeetShelke](https://github.com/Samarjeetshelke/)
 
 Happy Learning!
 
 ---
-This project is licensed under the MIT License. See the LICENSE file for details.
+
