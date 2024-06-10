@@ -39,6 +39,10 @@ Before you begin, ensure you have the following installed on your machine:
 
 ```
 data-science-machine-learning/
+├── python/
+      ├── list
+      ├── set
+      ├── map
 ├── data/
 │   └── # datasets used in examples and exercises
 ├── notebooks/
