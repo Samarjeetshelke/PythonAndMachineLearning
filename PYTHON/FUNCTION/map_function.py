@@ -21,3 +21,11 @@ def add(x,y):
 
 ans = list(map(add,l,k))
 print(ans)
+
+data = ["samarjeet","rakesh","Ani"]
+
+def getas(x):
+    return [ord(i) for i in x]
+    
+ans = list(map(getas,data))
+print(ans)
