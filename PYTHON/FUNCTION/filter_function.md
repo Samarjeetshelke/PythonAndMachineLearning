@@ -1,4 +1,6 @@
+Sure, here is an example of how to use the built-in Python `filter` function to filter data:
 
+```python
 # Example list of numbers
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
