@@ -55,3 +55,20 @@ In this example:
 - `list(filtered_people)` converts the filter object to a list so you can see the results.
 
 This demonstrates the flexibility and power of the `filter` function in Python.
+
+
+```python
+
+lis = [1,3,4,5,6,7]
+
+data = list(filter(lambda x: x==3,lis))
+
+print(data)
+
+data = list(filter(lambda x: x%2==0,lis))
+
+print(data)
+
+data = list(filter(lambda x: x%2!=0,lis))
+
+print(data)
