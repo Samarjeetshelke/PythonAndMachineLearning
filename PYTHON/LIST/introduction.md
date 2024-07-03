@@ -39,6 +39,9 @@ print(my_list)  # Outputs: [20, 4, 5, 6]
 ```
 
 ### Slicing
+```
+list[start:stop:step]
+```
 ```python
 print(my_list[1:3])  # Outputs: [4, 5]
 print(my_list[:2])   # Outputs: [20, 4]
